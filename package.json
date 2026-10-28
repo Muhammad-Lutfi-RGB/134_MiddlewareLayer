@@ -1,0 +1,23 @@
+{
+  "name": "134_middlewarelayer",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Muhammad-Lutfi-RGB/134_MiddlewareLayer#readme",
+  "bugs": {
+    "url": "https://github.com/Muhammad-Lutfi-RGB/134_MiddlewareLayer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammad-Lutfi-RGB/134_MiddlewareLayer.git"
+  },
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "joi": "^18.3.0",
+    "pg": "^8.23.1"
+  }
+}
